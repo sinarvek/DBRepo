@@ -1,8 +1,5 @@
-Use Customers;
-GO
-CREATE TABLE Customer.test (id INT , name VARCHAR(20));
+INSERT INTO Customer.test (id,name) VALUES(1,'sid');
 GO
 
 
-INSERT INTO Customer.test VALUES(1,'sid');
-GO
+
