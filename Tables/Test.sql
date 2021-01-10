@@ -1,4 +1,4 @@
-INSERT INTO Customer.test (id,name) VALUES(1,'sid');
+INSERT INTO Customer.test (id,name) VALUES(2,'siddhi');
 GO
 
 
